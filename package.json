@@ -1,0 +1,25 @@
+{
+  "name": "crudmongo_restful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node loader.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunoLNascimento/crudMongo_restul"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoLNascimento/crudMongo_restul"
+  },
+  "homepage": "https://github.com/brunoLNascimento/crudMongo_restul",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.7",
+    "node-restful": "^0.2.6"
+  }
+}
