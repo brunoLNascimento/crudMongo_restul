@@ -1,5 +1,6 @@
 # Crud RESTFUL - crud em restful
-
+- Linguagem utilizada: NodeJs (RESTFUL)
+- Bancos Utilizado: MongoDB
 
 # Funcionalidades desejadas: 
 
@@ -8,10 +9,6 @@
 - Buscar por ID
 - Remover planeta por ID
 
-Linguagem utilizada: NodeJs (RESTFUL)
-Bancos Utilizado: MongoDB
-
-  
 ### Rodando o sistema
 
 ```sh
